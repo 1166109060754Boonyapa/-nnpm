@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Lora';
-  background-image: linear-gradient(rgba(223, 177, 162, 0.158), rgba(223, 177, 162, 0.158)), url("../img/cloud-bg.jpg");
+  background-image: linear-gradient(rgba(24, 199, 248, 0.897), rgba(223, 177, 162, 0.158)), url("../img/cloud-bg.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
