@@ -247,15 +247,15 @@ p {
 }
 
 .btn-primary {
-    background-color: #f88379;
-    border-color: #f88379
+    background-color: #BBAB8C;
+    border-color: #BBAB8C
 }
 
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
     background-color: #BBAB8C;
-    border-color: #f55649
+    border-color: #BBAB8C;
 }
 
 .font-weight-light {
