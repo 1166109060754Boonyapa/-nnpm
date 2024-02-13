@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Lora';
-  background-image: linear-gradient(rgba(24, 199, 248, 0.897), rgba(223, 177, 162, 0.158)), url("../img/cloud-bg.jpg");
+  background-image: linear-gradient(rgba(24, 199, 248, 0.897), rgba(223, 177, 162, 0.158));
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -75,7 +75,7 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(121, 175, 248, 0.9);
+  background-color: rgba(255, 0, 0, 0.9);
   font-family: 'Raleway';
 }
 
